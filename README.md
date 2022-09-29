@@ -13,7 +13,7 @@ I followed the steps:
  6) Training and predicting models for XGBRegressor, CatBoostRegressor and LGBMRegressor
  7) Taking mean as result of previous step
 
-During my experiments I provided the following activities: feature engineering, variables aggregation and dropping some variables but... It didn't improve results so I rejected those activies from the code.
+During my experiments I provided the following activities: feature engineering, variables aggregation, dropping some variables and using different models but... It didn't improve results so I rejected those activties from the code.
 
 My working environment: Jupyter lab on Anaconda3.
 Enjoy your review!
