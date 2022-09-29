@@ -2,7 +2,7 @@
 The code (in Python) in this project is prepared for competition conducted by kaggle.com
 The Housing dataset was compiled by Dean De Cock for use in data science education (2 parts: train.csv, test.csv)
 The Goal of the project was to predict the sales price for each house.
-Submissions were evaluated on Root-Mean-Squared-Error (RMSE). I achieved score of 0.12620. The code is provided here.
+Submissions were evaluated on Root-Mean-Squared-Error (RMSE). I achieved score of 0.12595. The code is provided here.
 
 I followed the steps:
  1) Concatenating the dataset into one DataFrame
@@ -16,4 +16,5 @@ I followed the steps:
 During my experiments I provided the following activities: feature engineering, variables aggregation, dropping some variables and using different models but... It didn't improve results so I rejected those activties from the code.
 
 My working environment: Jupyter lab on Anaconda3.
+
 Enjoy your review!
